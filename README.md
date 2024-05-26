@@ -10,3 +10,6 @@ Prototype:
 <h1 align=center><img src ="https://github.com/super-fz/eSuhula/assets/122122054/3e381b50-0ac8-41e1-8084-86a25ff095ad" height = "500" align=center></h1>
 
 
+Demo Video:
+
+<h1 align=center><img src ="https://github.com/super-fz/eSuhula/assets/122122054/0a468bec-7978-477b-9403-0bda064afb25" height = "500" align=center></h1>
