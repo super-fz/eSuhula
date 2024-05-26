@@ -12,5 +12,5 @@ An AI-powered app for seniors, digitally illiterate, and people of determination
 
 **Demo Video:**
 
-https://github.com/super-fz/eSuhula/assets/122122054/f9be47c5-1dc7-4540-b52f-7d6d3ec3bb45
+https://github.com/super-fz/eSuhula/assets/122122054/663ceaaa-efd6-46f2-a1dc-bebbaf97c0ac
 
